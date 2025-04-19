@@ -931,6 +931,7 @@ section.in-view, .card.in-view {
     display: none;
     flex-direction: column;
     background-color: #111;
+    color: black;
     position: absolute;
     top: 60px;
     right: 0;
